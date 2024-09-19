@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <title>Marginesy w tabelach</title>
+        <meta charset="UTF-8">
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+        </style>
+        </head>
+        <body>
+            <table>
+                <tr>
+                    <th>kolumna 1</th>
+                    <th>Kolumna 2</h>
+                    </tr>
+                    <tr>
+                        <td>Tekst 1</td>
+                        <td>Tekst 2</td>
+                    </tr>
+            </table>
+        </body>
+</html>

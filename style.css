@@ -1,0 +1,39 @@
+.abc tr, td, th, table{  padding: 10px;
+    margin: 255px 455px;
+        border: 1px solid rgb(67, 70, 240);
+    color:rgb(255, 255, 255);
+    background: URL('https://media.tenor.com/FYZ7n9n6FYwAAAAM/cat-sky.gif');}    
+    .abcd tr, td, th, table{padding: 10px;
+       margin: 50px 59px;
+            border: 1px solid rgb(67, 70, 240);
+        color:rgb(255, 255, 255);
+        background: URL('https://media.tenor.com/FYZ7n9n6FYwAAAAM/cat-sky.gif');}  
+.abcde tr, td, th, table {
+    padding: 10px;
+       margin: 50px 59px 40px;
+            border: 1px solid rgb(67, 70, 240);
+        color:rgb(255, 255, 255);
+        background: URL('https://media.tenor.com/FYZ7n9n6FYwAAAAM/cat-sky.gif');
+   
+
+}
+    .abcdef {
+        padding: 10px;
+        margin: 50px 59px 40px 70px;
+             border: 1px solid rgb(67, 70, 240);
+         color:rgb(255, 255, 255);
+         background: URL('https://media.tenor.com/FYZ7n9n6FYwAAAAM/cat-sky.gif');
+    
+       
+    }
+.abcdefg {
+    padding: 10px;
+        margin-top:50px;
+        margin-bottom:40px;
+        margin-left:30px;
+        margin-right:60px;
+             border: 1px solid rgb(67, 70, 240);
+         color:rgb(255, 255, 255);
+         background: URL('https://media.tenor.com/FYZ7n9n6FYwAAAAM/cat-sky.gif');
+
+}
